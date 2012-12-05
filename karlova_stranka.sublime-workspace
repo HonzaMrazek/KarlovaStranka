@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ab",
+				"aboutMe"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"cl",
+				"class	ngClass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3828,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 7508,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax h",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"/",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"syn",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/PROGRAMMING/EasyPHP-12.1/www/karlova_stranka/index.html",
+		"/E/PROGRAMMING/EasyPHP-12.1/www/Cerberus/css/main.css",
+		"/E/PROGRAMMING/EasyPHP-12.1/www/Cerberus/index.html",
+		"/E/PROGRAMMING/EasyPHP-12.1/www/Cerberus/img/letka_logo.svg",
+		"/E/PROGRAMMING/EasyPHP-12.1/www/Cerberus/css/bootstrap.css",
+		"/E/PROGRAMMING/EasyPHP-12.1/www/Cerberus/css/bootstrap-responsive.css",
+		"/C/Users/Public/Desktop/NetBeans IDE 7.3 Beta.lnk",
+		"/E/PHOTOS/1.Letka/letka.svg",
+		"/C/Users/Honzik/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Honzik/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/PHOTOS/1.Letka/letka_komprimovane.svg",
+		"/E/PHOTOS/1.Letka/letka_plain.svg",
+		"/E/PROGRAMMING/EasyPHP-12.1/www/Cerberus/Cerberus.sublime-project",
+		"/E/PROGRAMMING/Cerberus/Cerberus.sublime-project",
+		"/E/PROGRAMMING/Cerberus/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			".ir",
+			"#00ff00",
+			"{{yourName}}",
+			"fill:#000000",
+			"stroke:#000000"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#000000",
+			"00ff00",
+			"fill:#{{yourName}}",
+			"stroke:#{{yourName}}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 3828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2296,
+								2296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 7508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3543,
+								3543
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2780.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/PROGRAMMING/EasyPHP-12.1/www/karlova_stranka/karlova_stranka.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true
+}

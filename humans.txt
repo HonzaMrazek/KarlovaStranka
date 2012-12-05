@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <name> -Karel Stejskal- <role> -- <twitter>
+
+# THANKS
+
+    <name> Jan Mrázek "man in shadow"
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
